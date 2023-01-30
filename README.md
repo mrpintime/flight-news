@@ -24,4 +24,4 @@ flight_report.searchByflightNum(num)
 ***latitude***, ***longitude***, direction aircraft [degree unit]***, ***altitude [meter]***, iata code of ***origin*** and ***destination*** and more.
 
 ### Other info
-<u>List for Flight number of live aircrafts</u>
+explore the program you will find interested things 🙈
