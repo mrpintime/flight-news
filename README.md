@@ -1,6 +1,6 @@
 ![FlightNews-cover](https://github.com/mrpintime/flight-news/blob/main/assets/cover.jpeg)
 
-# flight_news
+# Flight_news
 A simple command line program to get live details of aircraft in flight.
 **Program is currently in ‌BETA version**
 
