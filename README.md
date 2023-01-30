@@ -1,4 +1,4 @@
-![WeatherNews-img](https://github.com/mrpintime/weather_news/blob/main/img/weather.jpg)
+![FlightNews-cover](https://github.com/mrpintime/flight-news/blob/main/assets/cover.jpeg)
 
 # flight_news
 A simple command line program to get live details of aircraft in flight.
