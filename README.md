@@ -17,7 +17,7 @@ flight_report.flightnumList()
 ``` python
 flight_report.searchByflightNum(num)
 ```
-> return details of flight number
+> return details of flight number  
 > num = your chosen flight number (**required**) 
 
 ### What details will the program show ?
