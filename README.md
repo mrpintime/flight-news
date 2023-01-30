@@ -18,7 +18,7 @@ flight_report.flightnumList()
 flight_report.searchByflightNum(num)
 ```
 > return details of flight number  
-> num = your chosen flight number (**required**) 
+> num(**required**) = your chosen flight number
 
 ### What details will the program show ?
 ***latitude***, ***longitude***, ***direction aircraft [degree unit]***, ***altitude [meter]***, iata code of ***origin*** and ***destination*** and more.
