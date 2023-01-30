@@ -21,7 +21,7 @@ flight_report.searchByflightNum(num)
 > num = your chosen flight number (**required**) 
 
 ### What details will the program show ?
-***latitude***, ***longitude***, direction aircraft [degree unit]***, ***altitude [meter]***, iata code of ***origin*** and ***destination*** and more.
+***latitude***, ***longitude***, ***direction aircraft [degree unit]***, ***altitude [meter]***, iata code of ***origin*** and ***destination*** and more.
 
 ### Other info
 explore the program you will find interested things 🙈
